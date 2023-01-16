@@ -35,7 +35,7 @@ Those who are interested to download Mindmap can download it from link, https://
 ## :package: MindMapCollection
 
 ### :cloud: Cloud-Security
-The content seen here is based upon text from following sources:-
+The content seen shown in mindmap is based upon text from following sources:-
 
   * API Security in Action by Neil Madden. Publisher: Manning Publications. (Jan, 2021).
   * Architecting Cloud Computing Solutions by Kevin L. Jackson and Scott Goessling. Publisher: Packt Publishing. (May, 2018).
@@ -54,7 +54,11 @@ The content seen here is based upon text from following sources:-
   * The Official (ISC)² Guide to the CCSP CBK, 3rd Ed. by Leslie Fife, Aaron Kraus, Bryan Lewis. Publisher: Sybex. (Jul, 2021).
   * Threat Modeling by Izar Tarandach, Matthew J. Coles. Publisher: O'Reilly Media, Inc. (Nov, 2020).
 
-* See [MINDMAP](https://github.com/cedoor/ceditor/blob/master/LICENSE) file.
+See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/Cloud%20Security.png) file.
+
+### :hammer_and_wrench: Security Engineering
+The source of this mindmap comes when I was preparing for ISC(2), ISSEP exam which be very well be my toughest non-technical exam till date. Prepared it over a year and finally passed:). The map is an extract of over 8000+ pages of security text that I read and prepared for the exam, and some of the text has been taken from books or references like DoD, US-mil field manual (de-classified) 3 or 4 decades old. If you are interested in the reference material, here is the link.
+
 
 
 
