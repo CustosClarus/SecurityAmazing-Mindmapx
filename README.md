@@ -35,6 +35,29 @@ Those who are interested to download Mindmap can download it from link, https://
 ## :package: MindMapCollection
 
 ### :cloud: Cloud-Security
+The content seen here is based upon text from following sources:-
+
+  * API Security in Action by Neil Madden. Publisher: Manning Publications. (Jan, 2021).
+  * Architecting Cloud Computing Solutions by Kevin L. Jackson and Scott Goessling. Publisher: Packt Publishing. (May, 2018).
+  * Architecting the Cloud: Design Decisions for Cloud Computing Service Models (SaaS, PaaS, and IaaS) by Michael Kavis. Publisher: Wiley. (Jan, 2014).
+  * Best Practices for Mitigating Risks in Virtualized Environments by Abhik Chaudhuri, Heberto Ferrer, Hemma Prafullchandra, J.D. Sherry, Kelvin Ng, Xiaoyu, Ge, Yao Sing, Tao, Yiak Por, Heng. Publisher: Cloud Security Alliance. (Apr, 2015).
+  * Business Continuity and Disaster Recovery Planning for IT Professionals, 2nd Ed. by Susan Snedaker. Publisher: Syngress. (Sep, 2013).
+  * Cloud Computing: Concepts, Technology & Architecture by Zaigham Mahmood, Ricardo Puttini, Thomas Erl. Publisher: Pearson. (May, 2013).
+  * CSA Security Guidance for Critical Areas of Focus in Cloud Computing v4.0 by Rich Mogull, James Arlen, Adrian Lane, Gunnar Peterson, Mike Rothman, David Mortman. Publisher: Cloud Security Alliance. (Jul, 2017).
+  * Data Governance: The Definitive Guide by Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Anita Kibunguchy-Grant, Jessi Ashdown. Publisher: O'Reilly Media, Inc. (Mar, 2021).
+  * EU General Data Protection Regulation (GDPR) by European Parliament and Council of the European Union. Publisher: EU. (May, 2018)
+  * Incident Response in the Age of Cloud: Techniques and best practices to effectively respond to cybersecurity incidents by Ozkaya, E. Publisher: Packt Publishing. (Feb, 2021).
+  * Practical Cloud Security: A Guide for Secure Design and Deployment by Chris Dotson. Publisher: O'Reilly Media. (Mar, 2019).
+  * Practical Cyber Forensics: An Incident-Based Approach to Forensic Investigations, 1st Edition by Niranjan Reddy. Publisher: Apress. (Jul, 2019).
+  * Practical Guide to Cloud Service Agreements Version 3.0. Publisher: Cloud Standards Customer Council. (Feb, 2019).
+  * Security, Privacy, and Digital Forensics in the Cloud by Lei Chen, Hassan Takabi, Nhien-An Le-Khac. Publisher: Wiley. (Apr, 2019).
+  * The Official (ISC)² Guide to the CCSP CBK, 3rd Ed. by Leslie Fife, Aaron Kraus, Bryan Lewis. Publisher: Sybex. (Jul, 2021).
+  * Threat Modeling by Izar Tarandach, Matthew J. Coles. Publisher: O'Reilly Media, Inc. (Nov, 2020).
+
+* See [MINDMAP](https://github.com/cedoor/ceditor/blob/master/LICENSE) file.
+
+
+
 
 
 
