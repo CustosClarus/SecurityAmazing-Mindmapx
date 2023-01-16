@@ -19,7 +19,7 @@ Some mindmaps will be displaying picture as well, this is because the files were
 ___
 
 ## :paperclip: Table of Contents
-- :rocket: [Download](#rocket-features)
+- :rocket: [Download](#rocket-download)
 - :package: [MindMapCollection](#raised_hand-contributors)
    - :cloud: [Cloud-Security](#computer-code-contributors)
    - :hammer_and_wrench: [Security Engineering](#moneybag-financial-contributors)
