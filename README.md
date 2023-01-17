@@ -26,7 +26,7 @@ ___
    - :classical_building: [Security Architecture](#moneybag-financial-contributors)
    - :men_wrestling: [Security Management](#moneybag-financial-contributors)
    - :disguised_face: [Security Analysis using wiresharK](#moneybag-financial-contributors)
-   - :IBM Qradar-SIEM-SOC: [IBM Qradar-SIEM-SOC](#moneybag-financial-contributors)
+   - ![Alt text](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/ibm(1).png) [IBM Qradar-SIEM-SOC](#moneybag-financial-contributors)
  
 ## :rocket: Download
 
@@ -69,6 +69,7 @@ See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/image
 ### :men_wrestling: Security Management
 The source of this mindmap comes when I was preparing for ISC(2), ISSAP exam which is in series of ISC(2) concetration exams. The content here is very similar to some of other popular security certifications like CISM and CISA. If you are interested in the reference material, here is the [link](https://www.isc2.org/Certifications/References) used for preparation of the mindmap. 
 
+See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/ISSEP.png) file.
 
 
 
