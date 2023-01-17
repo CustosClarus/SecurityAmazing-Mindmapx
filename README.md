@@ -28,7 +28,7 @@ ___
    - :disguised_face: [Security-Analysis-using-wireshark](#disguised_face-Security-Analysis-using-wireshark)
    - :vertical_traffic_light: [IBM-Qradar-SIEM-SOC](#vertical_traffic_light-IBM-Qradar-SIEM-SOC)
    - :european_castle: [CISCO-IPS-ASA](#vertical_traffic_light-CISCO-IPS-ASA)
-- :open_file_folder: [Misc](#open_file_folder-package-Misc)
+- :open_file_folder: [Misc](#open_file_folder-Misc)
    - :electric_plug: [Telecom](#electric_plug-Telecom)
 
     
