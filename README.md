@@ -27,7 +27,7 @@ ___
    - :men_wrestling: [Security-Management](#men_wrestling-Security-Management)
    - :disguised_face: [Security-Analysis-using-wireshark](#Disguised_face-Security-Analysis-using-wireshark)
    - :vertical_traffic_light: [IBM-Qradar-SIEM-SOC](#vertical_traffic_light-IBM-Qradar-SIEM-SOC)
-   - :european_castle: [CISCO-IPS-ASA](#vertical_traffic_light-CISCO-IPS-ASA)
+   - :european_castle: [CISCO-IPS-ASA](#european_castle-CISCO-IPS-ASA)
 - :open_file_folder: [Misc](#open_file_folder-Misc)
    - :electric_plug: [Telecom](#electric_plug-Telecom)
 
