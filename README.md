@@ -99,7 +99,7 @@ Not directly related to Info Security/Cyber-security, but very valuable if you a
 
 Hope someone of you, find it useful in your own journey to become cyber security guru !
 
-See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/CISCO%20ASA.png) file.   
+See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/Telecom.png) file.   
 
 
 
