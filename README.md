@@ -20,7 +20,7 @@ ___
 
 ## :paperclip: Table of Contents
 - :rocket: [Download](#rocket-download)
-- :package: [MindMapCollection](#raised_hand-contributors)
+- :package: [MindMapCollection](#package-collection)
    - :cloud: [Cloud-Security](#computer-code-contributors)
    - :hammer_and_wrench: [Security Engineering](#moneybag-financial-contributors)
    - :classical_building: [Security Architecture](#moneybag-financial-contributors)
@@ -57,7 +57,23 @@ The content seen shown in mindmap is based upon text from following sources:-
 See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/Cloud%20Security.png) file.
 
 ### :hammer_and_wrench: Security Engineering
-The source of this mindmap comes when I was preparing for ISC(2), ISSEP exam which be very well be my toughest non-technical exam till date. Prepared it over a year and finally passed:). The map is an extract of over 8000+ pages of security text that I read and prepared for the exam, and some of the text has been taken from books or references like DoD, US-mil field manual (de-classified) 3 or 4 decades old. If you are interested in the reference material, here is the link.
+The source of this mindmap comes when I was preparing for ISC(2), ISSEP exam which be very well be my toughest non-technical exam till date. Prepared it over a year and finally passed:). The map is an extract of over 8000+ pages of security text that I read and prepared for the exam, and some of the text has been taken from books or references like DoD, US-mil field manual (de-classified) 3 or 4 decades old. If you are interested in the reference material, here is the [link](https://www.isc2.org/Certifications/References). 
+
+See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/ISSEP.png) file.
+
+### :classical_building: Security Architecture
+The source of this mindmap comes when I was preparing for ISC(2), ISSAP exam which is in series of ISC(2) concetration exams. Many folks in cyber-security have false sense of understanding of security architecture and usually relates with UML diagram or vendors drawings, in actual fact it is way more dense and as they say "devil lies in details". As a security architect you should have the ability to discern between various security requirements right from the requirements illiciation, rigt down to implementation. You would learn about "secure by design/default" principles and how can you successfully your architecture from "as is" state "to-be". For those who are interested in the reference material, here is the [link](https://www.isc2.org/Certifications/References) used for preparation of the mindmap. 
+
+See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/ISSEP.png) file.
+
+### :men_wrestling: Security Management
+The source of this mindmap comes when I was preparing for ISC(2), ISSAP exam which is in series of ISC(2) concetration exams. The content here is very similar to some of other popular security certifications like CISM and CISA. If you are interested in the reference material, here is the [link](https://www.isc2.org/Certifications/References) used for preparation of the mindmap. 
+
+
+
+
+
+
 
 
 
