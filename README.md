@@ -25,8 +25,9 @@ ___
    - :hammer_and_wrench: [Security-Engineering](#hammer_and_wrench-Security-Engineering)
    - :classical_building: [Security-Architecture](#classical_building-Security-Architecture])
    - :men_wrestling: [Security-Management](#men_wrestling-Security-Management)
-   - :disguised_face: [Security-Analysis using wireshark](#disguised_face-Security-Analysis using wireshark)
+   - :disguised_face: [Security-Analysis-using-wireshark](#disguised_face-Security-Analysis-using-wireshark)
    - :vertical_traffic_light: [IBM-Qradar-SIEM-SOC](#vertical_traffic_light-IBM-Qradar-SIEM-SOC)
+   - :european_castle: [CISCO-IPS-ASA](#vertical_traffic_light-CISCO-IPS-ASA)
  
 ## :rocket: Download
 
@@ -73,6 +74,19 @@ See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/image
 
 ### :vertical_traffic_light: IBM Qradar-SIEM-SOC
 I worked as security analyst for 5 years where I intergerated depoloy, and managed IBM Qradar as part of my every day job function. Till date, even with the onset of free-text and elastic backed SIEM technologies, in my view IBM Qradar is still an Industry leader in SIEM/SOC places. The one very simple reason is the very intutitve and usable UI/UX which makes analyst job of "finding needle in the haytack" a bit less painful. The aggregation , normalizatio on event names is a powerful feature and able to drill down to _N_LEVEL_ into a search gives greater control over filtering. I made this mindmap during my job on `IBM Qradar 7.1.*` which has been upgraded to many new major release version in last 8 years, please use this minmap to understand the design and architecture of the product.
+
+See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/IBM%20Qradar.png) file.
+
+### :vertical_traffic_light: IBM Qradar-SIEM-SOC
+I worked as security analyst for 5 years where I intergerated depoloy, and managed IBM Qradar as part of my every day job function. Till date, even with the onset of free-text and elastic backed SIEM technologies, in my view IBM Qradar is still an Industry leader in SIEM/SOC places. The one very simple reason is the very intutitve and usable UI/UX which makes analyst job of "finding needle in the haytack" a bit less painful. The aggregation , normalizatio on event names is a powerful feature and able to drill down to _N_LEVEL_ into a search gives greater control over filtering. I made this mindmap during my job on `IBM Qradar 7.1.*` which has been upgraded to many new major release version in last 8 years, please use this minmap to understand the design and architecture of the product.
+
+### :european_castle: CISCO-IPS-ASA
+No security analyst job be completed If there is no discussion about firewall, IPS and IDS. CISCO for many network enthusiast is very well the de-facto and serves as the gateway into the big , interesting and complex work of networking. I worked with CISCO ASA firewall over one year during my job as a security analyst. I worked on `cisco-asa-5585-x` firepower series product, which is pretty decent IPS, and I learned the power of custom signatures , and best practice in regard to rules/signature writing. The content is made from offical training manuals which I received during my 5 days offical CISCO ASA training in Dubai at Global Knowledge learning center.
+
+
+See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/IBM%20Qradar.png) file.   
+
+
 
 
 
