@@ -75,6 +75,11 @@ The source of this mindmap comes when I was preparing for ISC(2), ISSAP exam whi
 
 See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/ISSMP.png) file.
 
+### :disguised_face: Security-Analysis-using-wireshark
+Perhaps the most intriguing Mindmap experience was the time when I was preparing for Wireshark WCNA exam (Wireshark Certified Network Analayst). Yes, this might come as suprise to many but yes Wireshark do have its own certificaiton track, its unforunate its not as popular as other top security certs (perhaps largely due to company size, plus marketing). I learned the nice hacks and tricks you can do with Wireshark that could otherwise take lot of painstaking analyst hours to identify and fix. Learning use of search filters / regex along with performing analysis using IOgraphs filter which can very useful in certain DoS/DDoS scenarios. Wireshark is an undisputed swiss-army knife tool, for the internet and under right hands and knowledge can do wonders!
+See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/Network%20analysis.png) file.
+
+
 ### :vertical_traffic_light: IBM Qradar-SIEM-SOC
 I worked as security analyst for 5 years where I intergerated depoloy, and managed IBM Qradar as part of my every day job function. Till date, even with the onset of free-text and elastic backed SIEM technologies, in my view IBM Qradar is still an Industry leader in SIEM/SOC places. The one very simple reason is the very intutitve and usable UI/UX which makes analyst job of "finding needle in the haytack" a bit less painful. The aggregation , normalizatio on event names is a powerful feature and able to drill down to _N_LEVEL_ into a search gives greater control over filtering. I made this mindmap during my job on `IBM Qradar 7.1.*` which has been upgraded to many new major release version in last 8 years, please use this minmap to understand the design and architecture of the product.
 
