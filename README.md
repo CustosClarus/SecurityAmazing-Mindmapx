@@ -25,7 +25,7 @@ ___
    - :hammer_and_wrench: [Security-Engineering](#hammer_and_wrench-Security-Engineering)
    - :classical_building: [Security-Architecture](#classical_building-Security-Architecture)
    - :men_wrestling: [Security-Management](#men_wrestling-Security-Management)
-   - :disguised_face: [Security-Analysis-using-wireshark](#Disguised_face-Security-Analysis-using-wireshark)
+   - :disguised_face: [Security-Analysis-using-wireshark](#disguised_face-Security-Analysis-using-wireshark)
    - :vertical_traffic_light: [IBM-Qradar-SIEM-SOC](#vertical_traffic_light-IBM-Qradar-SIEM-SOC)
    - :european_castle: [CISCO-IPS-ASA](#european_castle-CISCO-IPS-ASA)
 - :open_file_folder: [Misc](#open_file_folder-Misc)
