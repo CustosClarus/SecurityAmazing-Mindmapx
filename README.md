@@ -20,13 +20,13 @@ ___
 
 ## :paperclip: Table of Contents
 - :rocket: [Download](#rocket-download)
-- :package: [MindMapCollection](#package-collection)
-   - :cloud: [Cloud-Security](#computer-code-contributors)
-   - :hammer_and_wrench: [Security Engineering](#moneybag-financial-contributors)
-   - :classical_building: [Security Architecture](#moneybag-financial-contributors)
-   - :men_wrestling: [Security Management](#moneybag-financial-contributors)
-   - :disguised_face: [Security Analysis using wiresharK](#moneybag-financial-contributors)
-   - ![Alt text](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/ibm(1).png) [IBM Qradar-SIEM-SOC](#moneybag-financial-contributors)
+- :package: [MindMapCollection](#package-MindMapCollection)
+   - :cloud: [Cloud-Security](#cloud-Cloud-Security)
+   - :hammer_and_wrench: [Security Engineering](#hammer_and_wrench-Security Engineering)
+   - :classical_building: [Security Architecture](#classical_building-Security Architecture])
+   - :men_wrestling: [Security Management](#men_wrestling-Security Management)
+   - :disguised_face: [Security Analysis using wireshark](#disguised_face-Security Analysis using wireshark)
+   - :vertical_traffic_light: [IBM Qradar-SIEM-SOC](#vertical_traffic_light-IBM Qradar-SIEM-SOC)
  
 ## :rocket: Download
 
@@ -71,6 +71,8 @@ The source of this mindmap comes when I was preparing for ISC(2), ISSAP exam whi
 
 See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/ISSEP.png) file.
 
+### :vertical_traffic_light: IBM Qradar-SIEM-SOC
+I worked as security analyst for 5 years where I intergerated depoloy, and managed IBM Qradar as part of my every day job function. Till date, even with the onset of free-text and elastic backed SIEM technologies, in my view IBM Qradar is still an Industry leader in SIEM/SOC places. The one very simple reason is the very intutitve and usable UI/UX which makes analyst job of "finding needle in the haytack" a bit less painful. The aggregation , normalizatio on event names is a powerful feature and able to drill down to _N_LEVEL_ into a search gives greater control over filtering. I made this mindmap during my job on `IBM Qradar 7.1.*` which has been upgraded to many new major release version in last 8 years, please use this minmap to understand the design and architecture of the product.
 
 
 
