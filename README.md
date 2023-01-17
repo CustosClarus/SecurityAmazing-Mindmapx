@@ -8,8 +8,8 @@ I have tried to be as asethethic as possible given the limitation of using free 
 
 I hope this mindmaps would benefit secrity professionals for their daily tasks, as well can be a great source of knoweldge for interview prepation and study for security certifications.
 
-Note:
-Some mindmaps will be displaying picture as well, this is because the files were generated at time when Mindmap software Xmind used to be free:P.
+`Note:
+Some mindmaps will be displaying picture as well, this is because the files were generated at time when Mindmap software Xmind used to be free:P.`
 
 <p align="center">
     <h1 align="center">
