@@ -23,7 +23,7 @@ ___
 - :package: [MindMapCollection](#package-MindMapCollection)
    - :cloud: [Cloud-Security](#cloud-Cloud-Security)
    - :hammer_and_wrench: [Security-Engineering](#hammer_and_wrench-Security-Engineering)
-   - :classical_building: [Security-Architecture](#classical_building-Security-Architecture])
+   - :classical_building: [Security-Architecture](#classical_building-Security-Architecture)
    - :men_wrestling: [Security-Management](#men_wrestling-Security-Management)
    - :disguised_face: [Security-Analysis-using-wireshark](#disguised_face-Security-Analysis-using-wireshark)
    - :vertical_traffic_light: [IBM-Qradar-SIEM-SOC](#vertical_traffic_light-IBM-Qradar-SIEM-SOC)
