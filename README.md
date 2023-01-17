@@ -91,10 +91,6 @@ No security analyst job be completed If there is no discussion about firewall, I
 
 See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/CISCO%20ASA.png) file.   
 
-### :european_castle: CISCO-IPS-ASA
-No security analyst job be completed If there is no discussion about firewall, IPS and IDS. CISCO for many network enthusiast is very well the de-facto and serves as the gateway into the big , interesting and complex work of networking. I worked with CISCO ASA firewall over one year during my job as a security analyst. I worked on `cisco-asa-5585-x` firepower series product, which is pretty decent IPS, and I learned the power of custom signatures , and best practice in regard to rules/signature writing. The content is made from offical training manuals which I received during my 5 days offical CISCO ASA training in Dubai at Global Knowledge learning center.
-
-See [MINDMAP](https://github.com/asadzz/SecurityAmazing-Mindmapx/blob/main/images/CISCO%20ASA.png) file.   
 
 ## :open_file_folder: Misc
 
